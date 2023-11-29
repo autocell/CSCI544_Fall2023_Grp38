@@ -16,7 +16,7 @@ This guide explains how to run the code for our project, which consists of two m
 This part of the code generates a dataset by combining different attributes from multiple files. We aim to create a balanced dataset of 20,000 rows, with 4,000 rows for each star rating from 1 to 5.
 
 ### Steps to Run
-1. Download the dataset folder.
+1. Download the dataset from the following link: https://www.yelp.com/dataset/download.
 2. Replace the paths in the code file with the paths of your downloaded files.
 3. Run the provided Colab file.
 4. The output will be a file named `balanced_dataset.csv`.
